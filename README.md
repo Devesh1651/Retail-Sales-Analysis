@@ -73,21 +73,21 @@ This dataset is widely used for **sales analysis, customer behavior analysis, an
 ### Monthly Sales and Profit Trend
 This visualization highlights overall sales growth, profit trends, and seasonal fluctuations over time.
 
-![Monthly Sales and Profit Trend](screenshots/monthly%20sales.png)
+![Monthly Sales and Profit Trend](screenshots/monthly_sales.png)
 
 ---
 
 ### Discount vs Profit Analysis
 This scatter plot shows a clear negative relationship between higher discount levels and profitability, indicating that aggressive discounting often leads to reduced or negative profit.
 
-![Discount vs Profit](screenshots/discount%20vs%20Profit.png)
+![Discount vs Profit](screenshots/discount_vs_profit.png)
 
 ---
 
 ### Elbow Method for K-Means Clustering
 The elbow method was used to identify the optimal number of clusters for customer segmentation.
 
-![Elbow Method](screenshots/kmeans.png)
+![Elbow Method for K-Means](screenshots/kmeans.png)
 
 ---
 
@@ -103,7 +103,7 @@ The Power BI dashboard provides an interactive view of sales performance and cus
 - **Customer Segmentation** (High / Medium / Low Value)
 - **Interactive Customer Segment Filter**
 
-![Power BI Dashboard](screenshots/PowerBI.png)
+![Power BI Dashboard](screenshots/powerbi.png)
 
 ---
 

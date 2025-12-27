@@ -132,9 +132,8 @@ This project successfully demonstrates the ability to:
 
 ---
 
-## Author
-**Devesh Nahar**
-
+ **Author**: Devesh Nahar  
+🔗 GitHub: [Devesh1651](https://github.com/Devesh1651)
 ---
 
 

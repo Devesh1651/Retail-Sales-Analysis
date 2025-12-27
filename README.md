@@ -27,7 +27,7 @@ The project follows a real-world analytics workflow commonly used in industry:
 
 ---
 
-## 📊 Dataset Description
+## Dataset Description
 The project uses the **Kaggle Global Superstore dataset**, which contains transactional data related to sales and orders across a global retail superstore.
 
 The dataset includes information about:
@@ -43,7 +43,7 @@ This dataset is widely used for **sales analysis, customer behavior analysis, an
 
 ## 📘 Notebook Details
 
-### 1️⃣ Data Understanding & Exploratory Data Analysis  
+### Data Understanding & Exploratory Data Analysis  
 **File:** `01_data_understanding.ipynb`
 
 - Loaded and explored **50K+ retail transaction records**
@@ -56,7 +56,7 @@ This dataset is widely used for **sales analysis, customer behavior analysis, an
 
 ---
 
-### 2️⃣ Customer Segmentation (RFM + K-Means)  
+### Customer Segmentation (RFM + K-Means)  
 **File:** `04_customer_segmentation_rfm.ipynb`
 
 - Constructed **RFM (Recency, Frequency, Monetary)** metrics at the customer level
@@ -68,7 +68,7 @@ This dataset is widely used for **sales analysis, customer behavior analysis, an
 
 ---
 
-## 📊 Exploratory Data Analysis & Machine Learning Visuals
+## Exploratory Data Analysis & Machine Learning Visuals
 
 ### Monthly Sales and Profit Trend
 This visualization highlights overall sales growth, profit trends, and seasonal fluctuations over time.
@@ -91,7 +91,7 @@ The elbow method was used to identify the optimal number of clusters for custome
 
 ---
 
-## 📊 Power BI Dashboard
+## Power BI Dashboard
 **File:** `Retail_Sales_Analysis_PowerBI.pbix`
 
 The Power BI dashboard provides an interactive view of sales performance and customer behavior.
@@ -107,7 +107,7 @@ The Power BI dashboard provides an interactive view of sales performance and cus
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 - Sales demonstrate **consistent year-over-year growth** with clear seasonal patterns
 - High discount levels are frequently associated with **lower or negative profit**
 - A **small group of high-value customers contributes a significant share of total revenue**
@@ -115,7 +115,7 @@ The Power BI dashboard provides an interactive view of sales performance and cus
 
 ---
 
-## 🏁 Project Outcome
+## Project Outcome
 This project successfully demonstrates the ability to:
 - Perform **end-to-end data analysis** on a real-world dataset
 - Apply **machine learning techniques** for customer segmentation
@@ -125,14 +125,14 @@ This project successfully demonstrates the ability to:
 
 ---
 
-## 📌 How to Run the Project
+## How to Run the Project
 1. Open the notebooks using Jupyter Notebook or VS Code
 2. Ensure required Python libraries are installed
 3. Open the `.pbix` file using **Power BI Desktop**
 
 ---
 
-## ✍️ Author
+## Author
 **Devesh Nahar**
 
 ---
